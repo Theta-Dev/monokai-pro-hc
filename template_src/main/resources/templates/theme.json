@@ -16,7 +16,7 @@
       "foreground": "#{{colors.base8}}",
       "inactiveBackground": "#{{colors.base1}}",
       "inactiveForeground": "#{{colors.base6}}",
-      "infoForeground": "#{{colors.base6}}",
+      "infoForeground": "#{{colors.base7}}",
       "selectionBackground": "#{{colors.base3}}",
       "selectionBackgroundInactive": "#{{colors.base3}}",
       "selectionForeground": "#{{colors.yellow}}",
@@ -114,7 +114,7 @@
       "focusColor": "#{{colors.yellow}}",
       "focusedBorderColor": "#{{colors.yellow}}",
       "hoverIconColor": "#{{colors.yellow}}",
-      "infoForeground": "#{{colors.base6}}",
+      "infoForeground": "#{{colors.base7}}",
       "iconColor": "#{{colors.base8}}"
     },
     "Counter": {
@@ -123,10 +123,10 @@
     },
     "Debugger": {
       "Variables": {
-        "collectingDataForeground": "#{{colors.base6}}",
+        "collectingDataForeground": "#{{colors.base7}}",
         "changedValueForeground": "#{{colors.yellow}}",
         "errorMessageForeground": "#{{colors.red}}",
-        "evaluatingExpressionForeground": "#{{colors.base6}}",
+        "evaluatingExpressionForeground": "#{{colors.base7}}",
         "exceptionForeground": "#{{colors.blue}}",
         "modifyingValueForeground": "#{{colors.yellow}}",
         "valueForeground": "#{{colors.yellow}}"
@@ -155,7 +155,7 @@
     "Editor": {
       "background": "#{{colors.base1}}",
       "foreground": "#{{colors.base8}}",
-      "shortcutForeground": "#{{colors.base6}}"
+      "shortcutForeground": "#{{colors.base7}}"
     },
     "EditorPane": {
       "background": "#{{colors.base1}}",
