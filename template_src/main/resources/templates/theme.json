@@ -28,7 +28,7 @@
       "hoverBackground": "#{{colors.base8x0c}}",
       "hoverBorderColor": "#{{colors.base8x0c}}",
       "pressedBackground": "#{{colors.base8x0c}}",
-      "pressedBorderColor": "#{{colors.base8x0c}}"
+      "pressedBorderColor": "#{{colors.base5}}"
     },
     "Borders": {
       "ContrastBorderColor": "#{{colors.base8x0c}}",
@@ -195,7 +195,7 @@
     },
     "HelpTooltip": {
       "borderColor": "#{{colors.base2}}",
-      "infoForeground": "#{{colors.base6}}"
+      "infoForeground": "#{{colors.base7}}"
     },
     "InformationHint": {
       "borderColor": "#{{colors.base2}}"
@@ -207,15 +207,15 @@
       "background": "#{{colors.base2}}",
       "disabledForeground": "#{{colors.base4}}",
       "disabledText": "#{{colors.base4}}",
-      "foreground": "#{{colors.base6}}",
-      "infoForeground": "#{{colors.base6}}",
+      "foreground": "#{{colors.base8}}",
+      "infoForeground": "#{{colors.base8}}",
       "selectedForeground": "#{{colors.yellow}}"
     },
     "Link": {
       "activeForeground": "#{{colors.yellow}}",
       "hoverForeground": "#{{colors.yellow}}",
       "pressedForeground": "#{{colors.yellow}}",
-      "secondaryForeground": "#{{colors.base6}}",
+      "secondaryForeground": "#{{colors.base7}}",
       "visitedForeground": "#{{colors.yellow}}"
     },
     "List": {
@@ -290,7 +290,7 @@
     },
     "Panel": {
       "background": "#{{colors.base2}}",
-      "foreground": "#{{colors.base6}}"
+      "foreground": "#{{colors.base8}}"
     },
     "ParameterInfo": {
       "background": "#{{colors.base3}}",
@@ -299,7 +299,7 @@
       "currentParameterForeground": "#{{colors.yellow}}",
       "disabledForeground": "#{{colors.base4}}",
       "foreground": "#{{colors.base8}}",
-      "infoForeground": "#{{colors.base6}}",
+      "infoForeground": "#{{colors.base7}}",
       "lineSeparatorColor": "#{{colors.base8x0c}}"
     },
     "PasswordField": {
@@ -336,7 +336,7 @@
       },
       "SectionHeader": {
         "background": "#{{colors.base2}}",
-        "foreground": "#{{colors.base6}}"
+        "foreground": "#{{colors.base7}}"
       },
       "Tab": {
         "hoverBackground": "#{{colors.base8x0c}}",
@@ -402,7 +402,7 @@
     "SearchEverywhere": {
       "Advertiser": {
         "background": "#{{colors.base1}}",
-        "foreground": "#{{colors.base6}}"
+        "foreground": "#{{colors.base7}}"
       },
       "Header": {
         "background": "#{{colors.base2}}"
@@ -414,7 +414,7 @@
       "SearchField": {
         "background": "#{{colors.base2}}",
         "borderColor": "#{{colors.base1}}",
-        "infoForeground": "#{{colors.base6}}"
+        "infoForeground": "#{{colors.base7}}"
       },
       "Tab": {
         "selectedForeground": "#{{colors.yellow}}",
@@ -497,7 +497,7 @@
       "focusCellBackground": "#{{colors.base3}}",
       "separatorColor": "#{{colors.base8x0c}}"
     },
-    "textText": "#{{colors.base6}}",
+    "textText": "#{{colors.base8}}",
     "TextArea": {
       "background": "#{{colors.base8x0c}}",
       "caretForeground": "#{{colors.yellow}}",
@@ -526,8 +526,8 @@
       "background": "#{{colors.base1}}",
       "Button.hoverBackground": "#{{colors.base4}}",
       "inactiveBackground": "#{{colors.base2}}",
-      "infoForeground": "#{{colors.base6}}",
-      "inactiveInfoForeground": "#{{colors.base6}}"
+      "infoForeground": "#{{colors.base8}}",
+      "inactiveInfoForeground": "#{{colors.base7}}"
     },
     "TitledBorder": {
       "titleColor": "#{{colors.base2}}"
@@ -551,13 +551,13 @@
     "ToolTip": {
       "Actions": {
         "background": "#{{colors.base2}}",
-        "infoForeground": "#{{colors.base6}}"
+        "infoForeground": "#{{colors.base7}}"
       },
       "background": "#{{colors.base2}}",
       "borderColor": "#{{colors.base4}}",
       "foreground": "#{{colors.base8}}",
-      "infoForeground": "#{{colors.base6}}",
-      "shortcutForeground": "#{{colors.base6}}"
+      "infoForeground": "#{{colors.base7}}",
+      "shortcutForeground": "#{{colors.base7}}"
     },
     "ToolWindow": {
       "Button": {
@@ -585,7 +585,7 @@
     },
     "Tree": {
       "background": "#{{colors.base1}}",
-      "foreground": "#{{colors.base6}}",
+      "foreground": "#{{colors.base8}}",
       "hash": "#{{colors.base2}}",
       "modifiedItemForeground": "#{{colors.yellow}}",
       "rowHeight": 22,
@@ -615,22 +615,22 @@
       },
       "GitLog": {
         "localBranchIconColor": "#{{colors.yellow}}",
-        "otherIconColor": "#{{colors.base6}}",
+        "otherIconColor": "#{{colors.base7}}",
         "remoteBranchIconColor": "#{{colors.base8}}",
-        "tagIconColor": "#{{colors.base6}}"
+        "tagIconColor": "#{{colors.base7}}"
       },
       "HgLog": {
         "branchIconColor": "#{{colors.yellow}}",
         "bookmarkIconColor": "#{{colors.yellow}}",
         "closedBranchIconColor": "#{{colors.base4}}",
-        "localTagIconColor": "#{{colors.base6}}",
-        "mqTagIconColor": "#{{colors.base6}}",
-        "tagIconColor": "#{{colors.base6}}",
-        "tipIconColor": "#{{colors.base6}}"
+        "localTagIconColor": "#{{colors.base7}}",
+        "mqTagIconColor": "#{{colors.base7}}",
+        "tagIconColor": "#{{colors.base7}}",
+        "tipIconColor": "#{{colors.base7}}"
       },
       "Log": {
         "Commit": {
-          "unmatchedForeground": "#{{colors.base6}}",
+          "unmatchedForeground": "#{{colors.base7}}",
           "currentBranchBackground": "#{{colors.base8x0c}}"
         }
       },
@@ -664,7 +664,7 @@
       "border": "0,0,0,0,{{colors.base8x0c}}"
     },
     "windowBorder": "#{{colors.base8x0c}}",
-    "windowText": "#{{colors.base6}}"
+    "windowText": "#{{colors.base8}}"
   },
   "icons": {
     "ColorPalette": {
