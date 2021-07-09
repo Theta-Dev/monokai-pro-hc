@@ -173,9 +173,6 @@
       "underlinedTabBackground": "#{{colors.base8x0c}}",
       "underlinedTabForeground": "#{{colors.base7}}"
     },
-    "FileColor": {
-      "Yellow": "00000000"
-    },
     "FormattedTextField": {
       "background": "#{{colors.base8x0c}}",
       "caretForeground": "#{{colors.yellow}}",
