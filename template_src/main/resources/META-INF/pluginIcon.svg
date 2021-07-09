@@ -1,11 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-    <g fill="none" fill-rule="evenodd">
-        <polygon fill="#c1c0c0" fill-rule="nonzero" points="7 21 7 59 40 78 73 59 73 21 40 2"/>
-        <polygon fill="#fd6883" fill-rule="nonzero" points="7 21 40 40 40 2"/>
-        <polygon fill="#f38d70" fill-rule="nonzero" points="40 40 7 21 7 59"/>
-        <polygon fill="#f9cc6c" fill-rule="nonzero" points="40 40 7 59 40 78"/>
-        <polygon fill="#adda78" fill-rule="nonzero" points="40 40 40 78 73 59"/>
-        <polygon fill="#85dacc" fill-rule="nonzero" points="73 21 40 40 73 59"/>
-        <polygon fill="#a8a9eb" fill-rule="nonzero" points="40 2 40 40 73 21"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" version="1.1" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="linearGradient2048"><stop offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient><radialGradient id="radialGradient2050" cx="40" cy="40" r="33.249" gradientTransform="matrix(1 0 0 .58447 0 16.621)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2048"/><radialGradient id="radialGradient2054" cx="40" cy="40" r=".5" gradientTransform="matrix(1 0 0 76 0 -3e3)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2048"/></defs><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><polygon points="7 21 7 59 40 78 73 59 73 21 40 2" fill="#c1c0c0"/><polygon points="7 21 40 40 40 2" fill="#fd6883"/><polygon points="40 40 7 21 7 59" fill="#f38d70"/><polygon points="40 40 7 59 40 78" fill="#f9cc6c"/><polygon points="40 40 40 78 73 59" fill="#adda78"/><polygon points="73 21 40 40 73 59" fill="#85dacc"/><polygon points="40 2 40 40 73 21" fill="#a8a9eb"/></g><g fill="none" stroke-width="1px"><path d="m7 21 66 38" stroke="url(#radialGradient2050)"/><path d="m7 59 66-38" stroke="url(#radialGradient2050)"/><path d="m40 2v76" stroke="url(#radialGradient2054)"/></g></g></svg>
