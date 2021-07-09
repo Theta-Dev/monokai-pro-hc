@@ -1,0 +1,49 @@
+<idea-plugin>
+  <id>monokai-pro-hc</id>
+  <name>Monokai Pro HC Theme</name>
+  <vendor url="https://thetadev.de">ThetaDev</vendor>
+  <version>0.0.1</version>
+
+  <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="191.0"/>
+
+  <change-notes><![CDATA[
+  <h3>0.0.1</h3>
+  <ul>
+    <li>Initial version</li>
+  </ul>
+  ]]>
+  </change-notes>
+
+  <description>
+  <![CDATA[
+  The unofficial Monokai Pro theme by <a href="https://subtheme.pro">Subtheme</a>, adapted for JetBrains. This plugin includes the default theme and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a>.
+  <br/><br/>
+  Patched by <a href="https://thetadev.de">ThetaDev</a> for improved contrast.
+  <br/><br/>
+  An no-italics version is also available. To enable, go to Settings, select Editor/Color Scheme, and choose your preferred Scheme from the dropdown (for example, "Monokai Pro - No Italics").
+  <br/><br/>
+  Contribute with <a href="https://github.com/subtheme-pro/monokai-pro">GitHub</a>. Screenshots taken with <a href="https://plugins.jetbrains.com/plugin/10044-atom-material-icons">Atom Material Icons</a> and <a href="https://www.typography.com/fonts/operator/styles">Operator Mono</a>.
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-pro/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-pro/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-machine-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-pro/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-octagon-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-pro/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-ristretto-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-pro/monokai-pro/master/apps/jetbrains/screenshots/monokai-pro-spectrum-small.png" border="0" width="360"/><br/>
+  ]]>
+  </description>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="e1046080-267d-42f9-ad55-3daf11e09a47" path="/machine.theme.json"/>
+    <themeProvider id="d507ee80-f2d0-4ed9-a391-58549e1fba07" path="/octagon.theme.json"/>
+    <themeProvider id="61675525-3e79-40a6-acfa-3bbde6f3016a" path="/ristretto.theme.json"/>
+    <themeProvider id="681d6fa2-0982-4d1a-acc3-5e4bf513c4ea" path="/spectrum.theme.json"/>
+    <themeProvider id="5eb617f6-8708-45a7-9778-2c44299878b6" path="/default.theme.json"/>
+
+    <bundledColorScheme path="/colors/machine-no-italics"/>
+    <bundledColorScheme path="/colors/octagon-no-italics"/>
+    <bundledColorScheme path="/colors/ristretto-no-italics"/>
+    <bundledColorScheme path="/colors/spectrum-no-italics"/>
+    <bundledColorScheme path="/colors/default-no-italics"/>
+  </extensions>
+</idea-plugin>
