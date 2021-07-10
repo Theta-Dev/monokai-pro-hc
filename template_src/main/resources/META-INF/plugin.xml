@@ -2,7 +2,7 @@
   <id>monokai-pro-hc</id>
   <name>Monokai Pro HC Theme</name>
   <vendor url="https://thetadev.de">ThetaDev</vendor>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
