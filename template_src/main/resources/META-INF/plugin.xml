@@ -8,6 +8,10 @@
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+  <h3>0.0.2</h3>
+  <ul>
+    <li>Dark grey texts (diabled UI, comments) are now brighter</li>
+  </ul>
   <h3>0.0.1</h3>
   <ul>
     <li>Initial version</li>
