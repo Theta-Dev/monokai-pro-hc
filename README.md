@@ -5,6 +5,8 @@ This repository includes the default theme and four filters: Machine, Octagon, R
 and Spectrum.
 Credit goes to the original creator: [https://monokai.pro](https://monokai.pro)
 
+Original repository: https://github.com/subtheme-dev/monokai-pro
+
 This fork contains improvements for more contrast and readabliliy,
 as well as fixes to the build system.
 
