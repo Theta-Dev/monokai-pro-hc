@@ -254,12 +254,12 @@
         </option>
         <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.orange}}" />
+                <option name="FOREGROUND" value="{{colors.darkblue}}" />
             </value>
         </option>
         <option name="CONSOLE_BLUE_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="{{colors.orange}}" />
+                <option name="FOREGROUND" value="{{colors.darkblue}}" />
             </value>
         </option>
         <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">

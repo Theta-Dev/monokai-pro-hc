@@ -13,6 +13,7 @@ themes:
       green: a9dc76
       blue: 78dce8
       purple: ab9df2
+      darkblue: 0091ff
       # base colors, sorted from darkest to lightest
       base0: 19181a
       base1: 221f22
@@ -35,6 +36,7 @@ themes:
       green: a2e57b
       blue: 7cd5f1
       purple: baa0f8
+      darkblue: 0093ff
       # base colors
       base0: 161b1e
       base1: 1d2528
@@ -57,6 +59,7 @@ themes:
       green: bad761
       blue: 9cd1bb
       purple: c39ac9
+      darkblue: 19a3ff
       # base colors
       base0: 161821
       base1: 1e1f2b
@@ -79,6 +82,7 @@ themes:
       green: adda78
       blue: 85dacc
       purple: a8a9eb
+      darkblue: 1793e6
       # base colors
       base0: 191515
       base1: 211c1c
@@ -101,6 +105,7 @@ themes:
       green: 7bd88f
       blue: 5ad4e6
       purple: 948ae3
+      darkblue: 0078d7
       # base colors
       base0: 131313
       base1: 191919
